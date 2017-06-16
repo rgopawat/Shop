@@ -7,19 +7,19 @@ with the Shop Name, Shop Address and Shop Postal Code. Application will call the
 Longitude based on the provided address and will the insert the entire Shop Information in
 the DataBase. Also, user can update the Shop Details and also fetch records for the nearest Shop.
 
-PreRequisities
+#PreRequisities
 
 Download and install STS 3.8.4.RELEASE.
 Install the Gradle Plugin and configure the environment variables.
 Clone the Project Source Code from GITHUB URI: ""
 Install POSTMAN in your chrome broswer.
 
-Installing
+#Installing
 
 'gradle clean install' on the local GIT repository.
 Ensure all tests are successfull as part of build.
 
-How to Run and Test
+#How to Run and Test
 
 Run it as Spring Boot App.
 Using POSTMAN test the APIs.

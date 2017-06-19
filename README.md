@@ -11,7 +11,7 @@ the DataBase. Also, user can update the Shop Details and also fetch records for 
 
 Download and install STS 3.8.4.RELEASE.
 Install the Gradle Plugin and configure the environment variables.
-Clone the Project Source Code from GITHUB URI: ""
+Clone the Project Source Code from GITHUB URI: "https://github.com/rgopawat/Shop.git"
 Install POSTMAN in your chrome broswer.
 
 #Installing
